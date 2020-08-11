@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.9.22
+FROM ubuntu
 MAINTAINER rix1337
 
 # Set correct environment variables
